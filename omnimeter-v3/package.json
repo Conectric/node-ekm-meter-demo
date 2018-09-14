@@ -9,7 +9,7 @@
   "author": "Conectric Networks",
   "license": "MIT",
   "dependencies": {
-    "conectric-usb-gateway": "^1.0.9"
+    "conectric-usb-gateway": "^1.0.10"
   },
   "type": "git",
   "url": "https://github.com/Conectric/node-ekm-meter-demo.git"
