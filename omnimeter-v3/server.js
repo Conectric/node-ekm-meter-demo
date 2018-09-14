@@ -63,7 +63,7 @@ gateway.runGateway({
         //     parity: gateway.PARITY_NONE,
         //     stopBits: 1,
         //     bitMask: 7,
-        //     destination: 'e17b'
+        //     destination: '1d2d'
         // });
 
         // Send EKM v3 meter message
