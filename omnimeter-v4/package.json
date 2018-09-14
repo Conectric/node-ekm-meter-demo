@@ -1,0 +1,14 @@
+{
+  "name": "ekm-to-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conectric Networks",
+  "license": "MIT",
+  "dependencies": {
+    "conectric-usb-gateway": "^1.0.9"
+  }
+}
